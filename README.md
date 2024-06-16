@@ -1,2 +1,2 @@
 # coding
-author - Jividha Gupta
+author - Jividha (coding)
